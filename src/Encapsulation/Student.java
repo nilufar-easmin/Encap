@@ -7,5 +7,6 @@ public class Student {
     void display(){
         System.out.println("Name:"+name);
         System.out.println("ID"+id);
+        System.out.println();
     }
 }
